@@ -1,6 +1,6 @@
 # KillDesktopTools
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that disables the desktop tool keybinds. requested by @3x1t-5tyl3
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that disables the desktop tool keybinds. requested by [@3x1t-5tyl3](https://github.com/3x1t-5tyl3)
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
